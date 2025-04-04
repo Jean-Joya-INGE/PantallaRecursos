@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pantalla Recursos</string>
+    <string name="tvTitulo">1.Version Android</string>
+    <string name="tvVersionAndroid"> </string>
+    <string name="tvBluer">1. Bluetooth</string>
+    <string name="btnActivar">Activar</string>
+    <string name="btnDesactivar">Desactivar</string>
+    <string name="tvCaptura">2. Nivel de Bateria</string>
+    <string name="tvNivel"></string>
+    <string name="tvAlmacenamiento">3. Almacenar</string>
+    <string name="etNombreArchivo">Nombre del archivo</string>
+    <string name="btnGuardarArchivo">Guardar Archivo</string>
+</resources>
